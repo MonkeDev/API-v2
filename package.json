@@ -1,0 +1,24 @@
+{
+  "name": "api-v2",
+  "version": "1.0.0",
+  "description": "An API developed MonkeDev, Which contains image manipulation, animal facts, animal images/gifs, and much more yet to come.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonkeDev/API-v2.git"
+  },
+  "author": "MonkeDev (https://monkedev.com)",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/MonkeDev/API-v2/issues"
+  },
+  "homepage": "https://github.com/MonkeDev/API-v2#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2"
+  }
+}
